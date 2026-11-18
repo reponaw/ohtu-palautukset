@@ -1,0 +1,5 @@
+Start, Stop, Continue, More of, Less of -pyörä:
+Julisteeseen piirretään ympyrä. Sitten ympyrä jaetaan otsikon osille, eli Start, Stop, Continue, More of, Less of. Pointtina on ymmärtää tiimin kesken, miten tiimi tekee työtä. Näin saadaan avointa palautetta työtavoista, ja voidaan huomioida työtavoista mikä toimii ja mikä ei, sekä miten muuttaa. Näitä tehdään sanojen mukaisesti mitä "start"= aloitetaan, mikä "stop"=lopetetaan jne... 
+
+Glad, Sad, Mad: 
+Käydään usea asia läpi nopeasti, jolloin laajuus menee syvyyden edelle. Ideana on, että tiimi kirjoittaa havaintojaan aiheiden (glad,sad,mad) alle, jonka jälkeen kaikkien mielipiteet ryhmitellään ja niistä änestetään. Tavoitteena on käydä läpi palautteet ja tiimin kokemukset, jotta seuraavassa sprintissä voidaan parantaa jotakin. Käsitellään siis enemmän tunteita ja pyritään löytämään syitä tunteille, jotta voidaan parantaa. 
